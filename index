@@ -1,0 +1,196 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+<style type="text/css">
+.q{
+	opacity:0.6
+}
+body {
+	background-color: #333;
+}
+#apDiv1 {
+	position: absolute;
+	width: 173px;
+	height: 75px;
+	layer-background-color: #666;
+	border: 1px none #000000;
+	z-index: 1;
+	left: 552px;
+	top: 25px;
+}
+body,td,th {
+	color: #FFF;
+	font-size: 24px;
+}
+#apDiv2 {
+	position: absolute;
+	width: 163px;
+	height: 71px;
+	layer-background-color: #666;
+	border: 1px none #000000;
+	z-index: 2;
+	left: 734px;
+	top: 24px;
+}
+a:link {
+	color: #FFF;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #FFF;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
+#apDiv3 {
+	position: absolute;
+	width: 172px;
+	height: 64px;
+	layer-background-color: #666;
+	border: 1px none #000000;
+	z-index: 3;
+	left: 911px;
+	top: 23px;
+}
+#apDiv4 {
+	position: absolute;
+	width: 168px;
+	height: 66px;
+	layer-background-color: #666;
+	border: 1px none #000000;
+	z-index: 4;
+	left: 1093px;
+	top: 22px;
+}
+#apDiv5 {
+	position: absolute;
+	width: 169px;
+	height: 65px;
+	layer-background-color: #666;
+	border: 1px none #000000;
+	z-index: 5;
+	left: 1273px;
+	top: 21px;
+}
+#apDiv6 {
+	position: absolute;
+	width: 200px;
+	height: 65px;
+	layer-background-color: #666;
+	border: 1px none #000000;
+	z-index: 6;
+	left: 1663px;
+	top: 21px;
+}
+#apDiv7 {
+	position: absolute;
+	width: 200px;
+	height: 65px;
+	layer-background-color: #666;
+	border: 1px none #000000;
+	z-index: 7;
+	left: 71px;
+	top: 19px;
+}
+</style>
+</head>
+
+<body>
+<table width="1920" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><table width="1920" background="../imgs/a1.jpg" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="360"><img src="../imgs/touming_01.jpg" width="360" height="115" class="q" />
+          <div id="apDiv7" style="font-size:64px">
+            <div align="center">Logo</div>
+          </div></td>
+        <td width="180"><img src="../imgs/touming_02.jpg" width="180" height="115" class="q" /></td>
+        <td width="180"><img src="../imgs/touming_03.jpg" width="180" height="115" class="q" />
+          <div id="apDiv1" style="font-size:64px">
+            <div align="center"><a href="#">首页</a></div>
+          </div></td>
+          
+        <td width="180"><img src="../imgs/touming_04.jpg" width="180" height="115" class="q" />
+        <div id="apDiv2" style="font-size:64px">
+            <div align="center"><a href="#">展览</a></div>
+          </div></td>
+          
+        <td width="180"><img src="../imgs/touming_05.jpg" width="180" height="115" class="q" />
+          <div id="apDiv3" style="font-size:64px">
+            <div align="center"><a href="#">文创</a></div>
+          </div>
+        </td>
+        <td width="180"><img src="../imgs/touming_06.jpg" width="180" height="115" class="q" />
+          <div id="apDiv4" style="font-size:64px">
+            <div align="center"><a href="#">探索</a></div>
+          </div></td>
+        <td width="180"><img src="../imgs/touming_07.jpg" width="180" height="115" class="q" />
+          <div id="apDiv5" style="font-size:64px">
+            <div align="center"><a href="#">关于</a></div>
+          </div></td>
+        <td width="120"><img src="../imgs/touming_08.jpg" width="120" height="115" class="q" /></td>
+        <td width="360"><img src="../imgs/touming_09.jpg" width="360" height="115" class="q" />
+          <div id="apDiv6" style="font-size:64px">
+            <div align="center"><a href="#">登录</a></div>
+          </div></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><table width="1920" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="115"><img src="../imgs/b1.jpg" width="115" height="847" /></td>
+        <td><img src="../imgs/b2.jpg" width="796" height="847" /></td>
+        <td width="845"><img src="../imgs/b3.jpg" width="894" height="847" /></td>
+        <td width="115"><img src="../imgs/b4.jpg" width="115" height="847" /></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><img src="../imgs/c1.jpg" width="1920" height="64" /></td>
+  </tr>
+  <tr>
+    <td><table width="1920" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="115"><img src="../imgs/d1.jpg" width="115" height="311" /></td>
+        <td width="500"><img src="../imgs/d2_01.jpg" width="500" height="311" /></td>
+        <td width="90"><img src="../imgs/d2_02.jpg" width="90" height="311" /></td>
+        <td width="251"><img src="../imgs/d3.jpg" width="251" height="311" /></td>
+        <td width="251"><img src="../imgs/d4.jpg" width="251" height="311" /></td>
+        <td width="253"><img src="../imgs/d5.jpg" width="253" height="311" /></td>
+        <td width="252"><img src="../imgs/d6.jpg" width="252" height="311" /></td>
+        <td width="208"><img src="../imgs/d7.jpg" width="208" height="311" /></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><img src="../imgs/e1.jpg" width="1920" height="61" /></td>
+  </tr>
+  <tr>
+    <td><table width="1920" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="115"><img src="../imgs/e2.jpg" width="115" height="299" /></td>
+        <td width="1690"><img src="../imgs/e3.jpg" width="1690" height="299" /></td>
+        <td width="115"><img src="../imgs/e4.jpg" width="115" height="299" /></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><img src="../imgs/e5.jpg" width="1920" height="233" /></td>
+  </tr>
+  <tr>
+    <td><blockquote>
+      <p>营业性演出许可证 沪市文演（经）00-2253        <br />
+        不良信息举报邮箱：help@bilibili.com | 涉未成年举报邮箱：teenprotect@bilibili.com | 不良信息举报电话：4006262233转1</p>
+    </blockquote>    </td>
+  </tr>
+</table>
+</body>
+</html>
+
